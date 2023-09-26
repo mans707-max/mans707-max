@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻  About Me :<br>I am a Backend Developer  from Egypt.<br><br>🔭 I’m working as a Software Engineer and contributing to backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>⚡ In my free time I read, play chess or workout.<br>📫 How to reach me:   Linkedin Badge
+👩‍💻  About Me :<br>I am a Backend Developer.<br><br>🔭 I’m working as a Software Engineer and contributing to backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>⚡ In my free time I read, play chess or workout.<br>📫 How to reach me:   Linkedin Badge
 
 
 ## 🌐 Socials:
